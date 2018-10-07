@@ -4,11 +4,11 @@ $ pkg update && pkg upgrade
 $ pkg install python git cowsay figlet -y
 $ git clone https://github.com/mrucokers1/PrImajination
 $ cd PrImajination
-$ chmod +x priaimajination.sh
-$ ./priaimajination.sh
+
+$ sh priaimajination.sh
 
 Cara Menggunakannya
-$ ./priaimajination.sh
+$ sh priaimajination.sh
 $ pilih nomor 1 karena emng tool nya masih 1 wkwkwk
 $ setelah itu disini lah saat nya feeling kita main karna tidak semua itu berhasil
    Ketika kita ingin mengetahui nganu nya okeee 😂.
